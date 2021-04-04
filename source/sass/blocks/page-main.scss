@@ -1,0 +1,59 @@
+.page-main__greeting {
+  margin-top: -35px;
+}
+
+.aside--mg-photo {
+  margin-bottom: 27px;
+}
+
+.aside--mg-form {
+  margin-bottom: 17px;
+}
+
+.page-main__advantage {
+  margin-top: 5px;
+}
+
+@media (min-width: 768px) {
+  .page-main__greeting {
+    margin-top: -5px;
+  }
+
+  .page-main__advantage {
+    margin-top: 50px;
+  }
+
+  .aside--mg-photo {
+    margin-bottom: 45px;
+  }
+
+  .aside--mg-form {
+    margin-bottom: 54px;
+  }
+
+  .info__contacts-margin {
+    margin-top: 27px;
+  }
+
+  .info__attraction-margin {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .page-main__advantage {
+    margin-top: 0;
+  }
+
+  .aside--mg-photo {
+    margin-bottom: 0;
+  }
+
+  .aside--mg-form {
+    margin-bottom: 0;
+  }
+
+  .info__attraction-margin {
+    margin-top: 0;
+  }
+}
